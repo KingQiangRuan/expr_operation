@@ -5,9 +5,8 @@
 * Description: evalate string expression
 */
 
-#include "expr_eval.h"
-
 #include <iostream>
+#include "expr_eval.h"
 
 #define SEPERATOR     ('#')
 #define IS_SPACE(c)   ((c) == ' ')
